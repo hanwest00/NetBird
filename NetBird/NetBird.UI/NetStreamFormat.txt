@@ -1,0 +1,8 @@
+﻿LENGTH:
+12121
+
+USER:
+[userinfoSerialize]
+
+CONTENT:
+[messageinfoSerialize]

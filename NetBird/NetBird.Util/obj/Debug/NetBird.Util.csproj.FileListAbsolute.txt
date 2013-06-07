@@ -1,0 +1,15 @@
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Util\bin\Debug\NetBird.Util.dll
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Util\bin\Debug\NetBird.Util.pdb
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Util\obj\Debug\NetBird.Util.dll
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Util\obj\Debug\NetBird.Util.pdb
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Util\bin\Debug\NetBird.Util.dll
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Util\bin\Debug\NetBird.Util.pdb
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Util\obj\Debug\NetBird.Util.csprojResolveAssemblyReference.cache
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Util\obj\Debug\NetBird.Util.dll
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Util\obj\Debug\NetBird.Util.pdb
+D:\vsproject\project\NetBird\NetBird\NetBird.Util\bin\Debug\NetBird.Util.dll
+D:\vsproject\project\NetBird\NetBird\NetBird.Util\bin\Debug\NetBird.Util.pdb
+D:\vsproject\project\NetBird\NetBird\NetBird.Util\obj\Debug\NetBird.Util.csprojResolveAssemblyReference.cache
+D:\vsproject\project\NetBird\NetBird\NetBird.Util\obj\Debug\NetBird.Util.dll
+D:\vsproject\project\NetBird\NetBird\NetBird.Util\obj\Debug\NetBird.Util.pdb

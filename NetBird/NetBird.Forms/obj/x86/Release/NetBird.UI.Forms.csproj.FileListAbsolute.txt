@@ -1,0 +1,14 @@
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Forms\bin\Release\NetBird.UI.Forms.exe
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Forms\bin\Release\NetBird.UI.Forms.pdb
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.csprojResolveAssemblyReference.cache
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.Properties.Resources.resources
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.csproj.GenerateResource.Cache
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.exe
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.pdb
+D:\vsproject\project\NetBird\NetBird\NetBird.Forms\bin\Release\NetBird.UI.Forms.exe
+D:\vsproject\project\NetBird\NetBird\NetBird.Forms\bin\Release\NetBird.UI.Forms.pdb
+D:\vsproject\project\NetBird\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.csprojResolveAssemblyReference.cache
+D:\vsproject\project\NetBird\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.Properties.Resources.resources
+D:\vsproject\project\NetBird\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.csproj.GenerateResource.Cache
+D:\vsproject\project\NetBird\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.exe
+D:\vsproject\project\NetBird\NetBird\NetBird.Forms\obj\x86\Release\NetBird.UI.Forms.pdb

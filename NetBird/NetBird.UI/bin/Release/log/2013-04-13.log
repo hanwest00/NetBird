@@ -1,0 +1,18 @@
+2013-04-13 01:16:50,System.ArgumentOutOfRangeException: removeIndex 小于零或者大于或等于 Count。
+参数名: index
+   在 MS.Internal.Controls.InnerItemCollectionView.RemoveAt(Int32 index)
+   在 System.Windows.Controls.ItemCollection.RemoveAt(Int32 removeIndex)
+   在 NetBird.MainWindow.RemoveUserList(UserInfo user)
+   在 NetBird.MainWindow.<>c__DisplayClass26.<.ctor>b__e()
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+-----------------------
+2013-04-13 01:17:07,System.ArgumentOutOfRangeException: removeIndex 小于零或者大于或等于 Count。
+参数名: index
+   在 MS.Internal.Controls.InnerItemCollectionView.RemoveAt(Int32 index)
+   在 System.Windows.Controls.ItemCollection.RemoveAt(Int32 removeIndex)
+   在 NetBird.MainWindow.RemoveUserList(UserInfo user)
+   在 NetBird.MainWindow.<>c__DisplayClass26.<.ctor>b__e()
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+-----------------------

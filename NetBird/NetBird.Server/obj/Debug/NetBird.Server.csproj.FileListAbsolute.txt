@@ -1,0 +1,15 @@
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Server\bin\Debug\NetBird.Server.dll
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Server\bin\Debug\NetBird.Server.pdb
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Server\obj\Debug\NetBird.Server.dll
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Server\obj\Debug\NetBird.Server.pdb
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Server\bin\Debug\NetBird.Server.dll
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Server\bin\Debug\NetBird.Server.pdb
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Server\obj\Debug\NetBird.Server.csprojResolveAssemblyReference.cache
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Server\obj\Debug\NetBird.Server.dll
+D:\vsproject\project\NetBird130412\NetBird\NetBird.Server\obj\Debug\NetBird.Server.pdb
+D:\vsproject\project\NetBird\NetBird\NetBird.Server\bin\Debug\NetBird.Server.dll
+D:\vsproject\project\NetBird\NetBird\NetBird.Server\bin\Debug\NetBird.Server.pdb
+D:\vsproject\project\NetBird\NetBird\NetBird.Server\obj\Debug\NetBird.Server.csprojResolveAssemblyReference.cache
+D:\vsproject\project\NetBird\NetBird\NetBird.Server\obj\Debug\NetBird.Server.dll
+D:\vsproject\project\NetBird\NetBird\NetBird.Server\obj\Debug\NetBird.Server.pdb

@@ -1,0 +1,8 @@
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Forms\bin\Debug\NetBird.UI.Forms.exe
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Forms\bin\Debug\NetBird.UI.Forms.pdb
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Forms\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Forms\obj\x86\Debug\NetBird.UI.Forms.Properties.Resources.resources
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Forms\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Forms\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Forms\obj\x86\Debug\NetBird.UI.Forms.exe
+D:\Backup\我的文档\Visual Studio 2010\Projects\NetBird\NetBird.Forms\obj\x86\Debug\NetBird.UI.Forms.pdb

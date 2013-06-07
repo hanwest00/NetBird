@@ -1,0 +1,72 @@
+2013-05-04 12:26:21,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 106
+-----------------------
+2013-05-04 12:32:16,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 106
+-----------------------
+2013-05-04 12:32:56,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 106
+-----------------------
+2013-05-04 12:42:53,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 106
+-----------------------
+2013-05-04 01:13:48,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 106
+-----------------------
+2013-05-04 11:35:57,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 113
+-----------------------
+2013-05-04 11:39:56,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 106
+-----------------------
+2013-05-04 11:40:02,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 106
+-----------------------
+2013-05-04 11:40:57,System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port, AddressFamily family)
+   在 System.Net.Sockets.UdpClient..ctor(Int32 port)
+   在 NetBird.Server.UdpServer..ctor(IPAddress send, IPAddress receive, Int32 port) 位置 d:\vsproject\project\NetBird\NetBird\NetBird.Server\UdpServer.cs:行号 41
+   在 NetBird.MainWindow..ctor() 位置 d:\vsproject\project\NetBird\NetBird\NetBird.UI\MainWindow.xaml.cs:行号 106
+-----------------------
